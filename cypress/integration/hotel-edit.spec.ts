@@ -27,6 +27,6 @@ describe('Hotel edit specs', () => {
 
     // Assert
     cy.wait('@load'); // TODO: Refactor
-    cy.findByText('Updated hotel two');
+    cy.findByText('Updated hotel aaaajajaja');
   });
 });
